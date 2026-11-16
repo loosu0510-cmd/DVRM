@@ -1,0 +1,8 @@
+{
+  "name": "VRM Stationery",
+  "description": "VRM Stationery — Second Branch at Cheyyur Road (Near Railway Gate), Sothupakkam-603319. School notebooks, writing instruments, art supplies, office stationery, and print & binding services. Call 9790586876.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
